@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Driver Loader</string>
+    <string name="superuser_permission">Superuser Permission</string>
+    <string name="check_su">Check Root (SU)</string>
+    <string name="rt_driver">RT Driver</string>
+    <string name="qx_driver">QX Driver</string>
+    <string name="load_rt">Load RT Driver</string>
+    <string name="load_qx">Load QX Driver</string>
+    <string name="terminal_console">Interactive Terminal Console</string>
+</resources>

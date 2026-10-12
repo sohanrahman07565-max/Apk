@@ -1,0 +1,6 @@
+{
+  "name": "Driver Loader",
+  "description": "Phone driver loader with Superuser (SU) root permissions, RT and QX driver modules, live terminal output, and load verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
